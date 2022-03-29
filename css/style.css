@@ -1,0 +1,32 @@
+body {
+  background:url("../images/gym.jpg");
+  no-repeat center center fixed;  
+  background-size:cover;
+  font-family: 'Fredoka One', cursive;
+}
+div{
+    background-color: #ff4500;
+    width:60%;
+    margin:100px auto;
+    text-align: center;
+    opacity:0.9;
+}
+button{
+    background: rgba(50, 50, 50);
+    width:400px;
+    height:50px;
+    color:white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+h1{
+    font-size: 4em;
+}
+
+p{
+    font-size: 1.8em;
+}
+i {
+    font-size: 4em;
+    color: aliceblue;
+}
